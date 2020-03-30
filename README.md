@@ -1,4 +1,5 @@
-# Girl Talk - Using Natural Language Processing to Decode Song Lyrics by Women
+# Girl Talk
+## Using Natural Language Processing to Decode Song Lyrics by Women
 
 ## Content
 - [Description](#description)
@@ -9,6 +10,8 @@
 ## Description
 
 I developed "Girl Talk" as my final project for the Data Analysis bootcamp at Ironhack Lisbon, during a dystopian week of social isolation in March 2020. _Feedback is very welcome!_
+
+I used Genius' API to gather about 30k lyrics of songs by women and used NLP to do topic modelling.
 
 You can read about the results on [this website](https://aariops.github.io/).
 
